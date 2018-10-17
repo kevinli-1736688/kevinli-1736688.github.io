@@ -1,0 +1,34 @@
+.centerh1{
+	margin: 40px auto;
+	width: 55%;
+}
+body {
+	position: absolute;
+	top: 13%;
+	left: 3%;
+	background-color: gray;
+}
+div{
+	overflow: auto;
+	margin: 40px auto;
+	width: 75%;
+	border: 3px solid green;
+	border-radius: 25px;
+	padding: 10px;
+}
+h1{
+	font-size: 40px;
+	text-align: center;
+	color:coral;
+	
+}
+li{
+	color: orange;
+	font-size: 30px;
+}
+img{
+	margin-left: 15px;
+	width:50%;
+	float: right;
+	border-radius: 20px;
+}
